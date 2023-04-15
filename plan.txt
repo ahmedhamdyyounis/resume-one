@@ -1,0 +1,6 @@
+- First Day:-
+1-Finished the main header and all its functionality.
+
+2-Finished Mobile Header 
+3- added all menu pages
+4- Completed manipulating animation for each template
